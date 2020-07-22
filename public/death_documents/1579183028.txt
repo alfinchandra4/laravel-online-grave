@@ -1,0 +1,7 @@
+scf 190 : 16 biji
+scf 0,90 : 28 biji
+xb 190 : 72 biji
+xb 0,90 : 72 biji
+uhead : 54 biji
+jack baes : 54 biji + 6 biji
+
